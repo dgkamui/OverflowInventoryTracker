@@ -1,0 +1,29 @@
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.vbproj.AssemblyReference.cache
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.Resources.resources
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.vbproj.GenerateResource.cache
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.vbproj.CoreCompileInputs.cache
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\OverflowInventoryTracker.exe.config
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\OverflowInventoryTracker.exe
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\OverflowInventoryTracker.pdb
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\OverflowInventoryTracker.xml
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.exe
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.xml
+C:\Users\anthony.shaffer\source\repos\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.pdb
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\OverflowInventoryTracker.exe.config
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\OverflowInventoryTracker.exe
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\OverflowInventoryTracker.pdb
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\OverflowInventoryTracker.xml
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.vbproj.AssemblyReference.cache
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.Resources.resources
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.OverflowInventoryForm.resources
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.vbproj.GenerateResource.cache
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.vbproj.CoreCompileInputs.cache
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.exe
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.xml
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.pdb
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\OverflowInventoryTracker.exe.config
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\itextsharp.dll
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\bin\Debug\itextsharp.xml
+C:\Programm Files\Projects\OverflowInventoryTracker\OverflowInventoryTracker\obj\Debug\Overflow.42EB638B.Up2Date
